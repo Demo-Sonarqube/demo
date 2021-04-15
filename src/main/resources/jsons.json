@@ -1,0 +1,301 @@
+{
+"issues": [
+    {
+      "key": "AXg_82_OpP9t8CNYeN4U",
+      "rule": "squid:S1220",
+      "severity": "MINOR",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/HelloWorldByVishal.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "flows": [
+        
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "Move this file to a named package.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "44113789+patidar622@users.noreply.github.com",
+      "tags": [
+        "convention"
+      ],
+      "creationDate": "2021-03-17T11:28:26+0000",
+      "updateDate": "2021-03-22T04:29:03+0000",
+      "closeDate": "2021-03-22T04:29:03+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    },
+    {
+      "key": "AXg_82_OpP9t8CNYeN4V",
+      "rule": "squid:S106",
+      "severity": "MAJOR",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/HelloWorldByVishal.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "hash": "41b0855c3e6d004ed39c59a2617b78d9",
+      "textRange": {
+        "startLine": 3,
+        "endLine": 3,
+        "startOffset": 8,
+        "endOffset": 18
+      },
+      "flows": [
+        
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "Replace this use of System.out or System.err by a logger.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "44113789+patidar622@users.noreply.github.com",
+      "tags": [
+        "bad-practice",
+        "cert"
+      ],
+      "creationDate": "2021-03-17T11:28:26+0000",
+      "updateDate": "2021-03-22T04:29:03+0000",
+      "closeDate": "2021-03-22T04:29:03+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    },
+    {
+      "key": "AXg63PLkpP9t8CNYeN02",
+      "rule": "squid:S1186",
+      "severity": "CRITICAL",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/Test.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "hash": "ebeb38ce1fb999b505c64fc16f54e1b6",
+      "textRange": {
+        "startLine": 2,
+        "endLine": 2,
+        "startOffset": 23,
+        "endOffset": 27
+      },
+      "flows": [
+        
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.",
+      "effort": "5min",
+      "debt": "5min",
+      "author": "80736777+sonu1311997@users.noreply.github.com",
+      "tags": [
+        "suspicious"
+      ],
+      "creationDate": "2021-03-16T11:47:26+0000",
+      "updateDate": "2021-03-17T03:52:23+0000",
+      "closeDate": "2021-03-17T03:52:23+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    },
+    {
+      "key": "AXg6xEVipP9t8CNYeNzy",
+      "rule": "squid:S1220",
+      "severity": "MINOR",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/Test.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "flows": [
+        
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "Move this file to a named package.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "80736777+sonu1311997@users.noreply.github.com",
+      "tags": [
+        "convention"
+      ],
+      "creationDate": "2021-03-16T10:21:57+0000",
+      "updateDate": "2021-03-17T03:52:23+0000",
+      "closeDate": "2021-03-17T03:52:23+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    },
+    {
+      "key": "AXg6xEVipP9t8CNYeNzz",
+      "rule": "squid:S106",
+      "severity": "MAJOR",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/Test.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "hash": "d2c78abcafea90267b42fd5fc81a3ff2",
+      "textRange": {
+        "startLine": 3,
+        "endLine": 3,
+        "startOffset": 8,
+        "endOffset": 18
+      },
+      "flows": [
+        
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "Replace this use of System.out or System.err by a logger.",
+      "effort": "10min",
+      "debt": "10min",
+      "author": "80736777+sonu1311997@users.noreply.github.com",
+      "tags": [
+        "bad-practice",
+        "cert"
+      ],
+      "creationDate": "2021-03-16T10:21:57+0000",
+      "updateDate": "2021-03-16T11:47:26+0000",
+      "closeDate": "2021-03-16T11:47:26+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    },
+    {
+      "key": "AXg5oSpZpP9t8CNYeNs1",
+      "rule": "squid:S2293",
+      "severity": "MINOR",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/AddressBookResource.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "line": 27,
+      "hash": "17f75ad06b755112e7be85c077887a09",
+      "textRange": {
+        "startLine": 27,
+        "endLine": 27,
+        "startOffset": 22,
+        "endOffset": 31
+      },
+      "flows": [
+        
+      ],
+      "status": "OPEN",
+      "message": "Replace the type specification in this constructor call with the diamond operator (\"<>\").",
+      "effort": "1min",
+      "debt": "1min",
+      "author": "sambhavkhandelwal25@gmail.com",
+      "tags": [
+        "clumsy"
+      ],
+      "creationDate": "2021-03-16T05:56:54+0000",
+      "updateDate": "2021-03-16T06:02:36+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    },
+    {
+      "key": "AXg5oSqqpP9t8CNYeNs3",
+      "rule": "squid:UselessImportCheck",
+      "severity": "MINOR",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/DemoSwaggerApplication.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "hash": "6acc259cd43a9feb5141fbbadf9cf2d9",
+      "textRange": {
+        "startLine": 3,
+        "endLine": 3,
+        "startOffset": 0,
+        "endOffset": 62
+      },
+      "flows": [
+        
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "Remove this unused import 'org.springframework.beans.factory.annotation.Autowired'.",
+      "effort": "2min",
+      "debt": "2min",
+      "author": "sambhavkhandelwal25@gmail.com",
+      "tags": [
+        "unused"
+      ],
+      "creationDate": "2021-03-16T05:56:54+0000",
+      "updateDate": "2021-03-22T06:31:21+0000",
+      "closeDate": "2021-03-22T06:31:21+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    },
+    {
+      "key": "AXg5oSqqpP9t8CNYeNs4",
+      "rule": "squid:UselessImportCheck",
+      "severity": "MINOR",
+      "component": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/DemoSwaggerApplication.java",
+      "project": "com.spring.swagger:demo-swagger",
+      "hash": "bee30b9f4d819b8166b584c5f0ea3636",
+      "textRange": {
+        "startLine": 4,
+        "endLine": 4,
+        "startOffset": 0,
+        "endOffset": 50
+      },
+      "flows": [
+        
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "Remove this unused import 'org.springframework.boot.CommandLineRunner'.",
+      "effort": "2min",
+      "debt": "2min",
+      "author": "sambhavkhandelwal25@gmail.com",
+      "tags": [
+        "unused"
+      ],
+      "creationDate": "2021-03-16T05:56:54+0000",
+      "updateDate": "2021-03-22T06:31:21+0000",
+      "closeDate": "2021-03-22T06:31:21+0000",
+      "type": "CODE_SMELL",
+      "organization": "default-organization",
+      "fromHotspot": false
+    }
+  ],
+  "components": [
+    {
+      "organization": "default-organization",
+      "key": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/DemoSwaggerApplication.java",
+      "uuid": "AXg5oSjGpP9t8CNYeNsw",
+      "enabled": true,
+      "qualifier": "FIL",
+      "name": "DemoSwaggerApplication.java",
+      "longName": "src/main/java/com/spring/swagger/demoswagger/DemoSwaggerApplication.java",
+      "path": "src/main/java/com/spring/swagger/demoswagger/DemoSwaggerApplication.java"
+    },
+    {
+      "organization": "default-organization",
+      "key": "com.spring.swagger:demo-swagger",
+      "uuid": "AXg5oSDkv5camDV5Isrt",
+      "enabled": true,
+      "qualifier": "TRK",
+      "name": "demo-swagger",
+      "longName": "demo-swagger"
+    },
+    {
+      "organization": "default-organization",
+      "key": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/AddressBookResource.java",
+      "uuid": "AXg5oSjGpP9t8CNYeNsv",
+      "enabled": true,
+      "qualifier": "FIL",
+      "name": "AddressBookResource.java",
+      "longName": "src/main/java/com/spring/swagger/demoswagger/AddressBookResource.java",
+      "path": "src/main/java/com/spring/swagger/demoswagger/AddressBookResource.java"
+    },
+    {
+      "organization": "default-organization",
+      "key": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/HelloWorldByVishal.java",
+      "uuid": "AXg_8253pP9t8CNYeN4T",
+      "enabled": false,
+      "qualifier": "FIL",
+      "name": "HelloWorldByVishal.java",
+      "longName": "src/main/java/com/spring/swagger/demoswagger/HelloWorldByVishal.java",
+      "path": "src/main/java/com/spring/swagger/demoswagger/HelloWorldByVishal.java"
+    },
+    {
+      "organization": "default-organization",
+      "key": "com.spring.swagger:demo-swagger:src/main/java/com/spring/swagger/demoswagger/Test.java",
+      "uuid": "AXg6xEQQpP9t8CNYeNzx",
+      "enabled": false,                                                                                                                           
+      "qualifier": "FIL",
+      "name": "Test.java",
+      "longName": "src/main/java/com/spring/swagger/demoswagger/Test.java",
+      "path": "src/main/java/com/spring/swagger/demoswagger/Test.java"
+    }
+  ],
+  "facets": [
+    
+  ]
+}
