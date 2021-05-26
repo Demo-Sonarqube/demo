@@ -8,5 +8,7 @@ void abc()
 {
   Map<String,String> mp=new HashMap<>();
   mp.put("sambhav","khandelwal");
+  
+  Set<String> s=new HashSet<>();
 }
 }
