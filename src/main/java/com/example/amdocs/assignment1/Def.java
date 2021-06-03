@@ -14,6 +14,7 @@ class Def{
     mp.put("abc","def");
     Set<String> s=new HashSet<>();
     s.add("sambhav");
+    System.out.println("Hello, World!");
   }
   
 }
