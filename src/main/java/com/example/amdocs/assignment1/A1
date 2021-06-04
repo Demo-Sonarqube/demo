@@ -1,0 +1,8 @@
+import java.util.Map;
+
+class a{
+  void show()
+  {
+    System.out.println("Welcome home");
+  }
+}
