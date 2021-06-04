@@ -3,6 +3,8 @@ import java.util.Scanner;
 class hello_sonu{
   void hello()
   {
-    System.out.println("Sonu");
+    java.util.logging.Logger logger= java.util.logging.Logger.getLogger(this.getClass().getName());
+    logger.info("hello")
+    //System.out.println("Sonu");
   }
 }
