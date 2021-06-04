@@ -4,7 +4,7 @@ class hello_sonu{
   void hello()
   {
     java.util.logging.Logger logger= java.util.logging.Logger.getLogger(this.getClass().getName());
-    logger.info("hello")
+    logger.info("hello");
     //System.out.println("Sonu");
   }
 }
