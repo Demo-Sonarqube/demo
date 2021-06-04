@@ -5,6 +5,7 @@ class hey{
   void hello()
   {
     System.out.println("Sonu");
+     System.out.println("Sonu");
   }
 }
 
