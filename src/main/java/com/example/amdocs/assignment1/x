@@ -1,0 +1,12 @@
+package com.example.demo;
+import java.util.Scanner;
+class x{
+  void x1()
+  {
+    System.out.println("Sonu");
+  }
+}
+
+
+
+
